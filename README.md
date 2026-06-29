@@ -1,5 +1,7 @@
 # Gleam Duster
 
+![Status](https://img.shields.io/badge/status-active-success)
+
 清辉拂过，尘埃无处可藏。
 
 A static asset analyzer for web repositories. Crawls repos for unused
